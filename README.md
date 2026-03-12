@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Ayush%20Meena&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Ayush%20Mandawat&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <h2 align="center">Cyber Security Student • Full Stack Developer • Security Tool Builder</h2>
