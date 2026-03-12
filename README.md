@@ -29,7 +29,7 @@ Key focus areas:
 
 ### Languages
 
-JavaScript • Python • Kotlin
+JavaScript • Python • Kotlin 
 
 ### Frameworks & Runtime
 
@@ -37,11 +37,11 @@ Next.js • Node.js • Express.js
 
 ### Database
 
-MongoDB • SQL
+MongoDB • SQL • Supabase 
 
 ### Security Domains
 
-OSINT • Phishing Detection • Network Analysis • Threat Intelligence
+OSINT • Phishing Detection • Network Analysis • Threat Intelligence • offensive tool
 
 ---
 
