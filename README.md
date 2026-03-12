@@ -41,7 +41,7 @@ MongoDB • SQL • Supabase
 
 ### Security Domains
 
-OSINT • Phishing Detection • Network Analysis • Threat Intelligence • offensive tool
+OSINT • Phishing Detection • Network Analysis • Threat Intelligence • VAPT
 
 ---
 
