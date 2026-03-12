@@ -78,8 +78,8 @@ Currently exploring:
 
 ## Contact
 
-* LinkedIn
-* Email
+* LinkedIn: https://www.linkedin.com/in/ayushmandawat/
+* Email: Ayushmandawat30@gmail.com
 
 ---
 
