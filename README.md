@@ -1,16 +1,92 @@
-## Hi there 👋
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Ayush%20Meena&fontSize=40&fontColor=ffffff"/>
+</p>
 
-<!--
-**Ayyushh12/Ayyushh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Cyber Security Student • Full Stack Developer • Security Tool Builder</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student;Full+Stack+Developer;OSINT+Tool+Builder;Security+Research+Enthusiast&center=true&width=500&height=45">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I am a cybersecurity student focused on building practical tools and modern web platforms.
+My primary interests are in security engineering, OSINT tooling, and developing real-world applications using modern full-stack technologies.
+
+Key focus areas:
+
+* Cybersecurity and threat intelligence
+* OSINT investigation platforms
+* Web application security
+* AI-assisted security tools
+* Scalable full-stack architectures
+
+---
+
+## Technical Skills
+
+### Languages
+
+JavaScript • Python • Kotlin
+
+### Frameworks & Runtime
+
+Next.js • Node.js • Express.js
+
+### Database
+
+MongoDB • SQL
+
+### Security Domains
+
+OSINT • Phishing Detection • Network Analysis • Threat Intelligence
+
+---
+
+## Development Interests
+
+Currently exploring:
+
+* AI-assisted cybersecurity platforms
+* Automated OSINT investigation tools
+* Security-focused SaaS platforms
+* Data-driven threat analysis systems
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AyushMeena&show_icons=true&hide_border=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushMeena&layout=compact&hide_border=true&theme=tokyonight"/>
+
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushMeena&theme=tokyo-night&hide_border=true">
+</p>
+
+---
+
+## Contact
+
+* LinkedIn
+* Email
+
+---
+
+<p align="center">
+Focused on building practical cybersecurity tools and learning through real-world development.
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+</p>
